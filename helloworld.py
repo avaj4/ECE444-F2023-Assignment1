@@ -17,6 +17,6 @@ if __name__ == "__main__":
 
     # Check if the current branch is "develop"
     if current_branch == "develop":
-        print("Hello World, Ava Jakob")
+        print("Hello World, 3")
     else:
         print(f"This program should be run on the 'develop' branch, but you are on '{current_branch}' branch.")
