@@ -7,4 +7,7 @@ Activity 3:
 ![image](https://github.com/avaj4/ECE444-F2023-Assignment1/assets/53788244/5689f3b1-653d-426f-afe0-af8c96bd9267)
 Activity 4:
 ![image](https://github.com/avaj4/ECE444-F2023-Assignment1/assets/53788244/a40d75af-9a0b-41b3-9427-fa0f364d51eb)
+Activity 5: 
+![image](https://github.com/avaj4/ECE444-F2023-Assignment1/assets/53788244/151927be-f286-44de-91a1-c4f6f07267c6)
+![image](https://github.com/avaj4/ECE444-F2023-Assignment1/assets/53788244/33524ea8-82d0-4cf2-8b66-9255c8ca1155)
 
